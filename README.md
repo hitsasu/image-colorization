@@ -19,7 +19,7 @@ The implementation can be summarized as follows:
 
 ***RESULTS***
 
-We trained the model using appropriately 2500 images (classified as either face, animal or landscape images) of combined sets and tested it with another separate small sample of unseen images. Our subjective results shows that the coloring approach performed reasonably well when compared to the ground truth. The results are shown in ***Figure/results.jpg***
+We trained the model using appropriately 2500 images (classified as either face, animal or landscape images) of combined sets and tested it with another separate small sample of unseen images. Our subjective results shows that the coloring approach performed reasonably well when compared to the ground truth. The results are shown in ***Figure/results.png***
 
 
 ***CONCLUSIONS AND RECOMMENDATIONS***
