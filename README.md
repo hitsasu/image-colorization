@@ -10,3 +10,6 @@ The implementation can be summarized as follows:
 4) Output Image scaling: Upsampling the resulting RGB image.
 
 *****The framework shown in Figure/framework.jpg illustrates the entire process of coloring a grayscale image to a LAB color image.***
+
+
+
