@@ -9,4 +9,4 @@ The implementation can be summarized as follows:
 3) Decoder: Color histogram and cost function calculation and colorization.
 4) Output Image scaling: Upsampling the resulting RGB image.
 
-*****The framework shown in Figure/framework.jpg illustrates the entire process of coloring a grayscale image to a LAB color image.
+*****The framework shown in Figure/framework.jpg illustrates the entire process of coloring a grayscale image to a LAB color image.***
